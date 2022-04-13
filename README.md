@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SUNJY2008
+- 👋 Hi, I’m @SUNJY
 - 👀 I’m interested in video cutting
 - 🌱 I’m currently learning Ae C4D
 - 💞️ I’m looking to collaborate on Unity & C#
